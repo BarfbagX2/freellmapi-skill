@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "freellmapi-skill",
+  "description": "A Claude Code skill for FreeLLMAPI, the self-hosted gateway that pools LLM providers' free tiers behind one endpoint.",
+  "owner": {
+    "name": "BarfbagX2",
+    "url": "https://github.com/BarfbagX2"
+  },
+  "plugins": [
+    {
+      "name": "freellmapi",
+      "description": "Install, run and use a FreeLLMAPI gateway: provider keys, calls from code, coding agents, troubleshooting.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

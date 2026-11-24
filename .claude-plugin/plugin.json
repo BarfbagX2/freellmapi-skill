@@ -1,0 +1,13 @@
+{
+  "name": "freellmapi",
+  "version": "1.0.0",
+  "description": "Set up and use FreeLLMAPI, the self-hosted gateway that pools LLM providers' free tiers behind one OpenAI- and Anthropic-compatible endpoint.",
+  "author": {
+    "name": "BarfbagX2",
+    "url": "https://github.com/BarfbagX2"
+  },
+  "homepage": "https://github.com/BarfbagX2/freellmapi-skill",
+  "repository": "https://github.com/BarfbagX2/freellmapi-skill",
+  "license": "MIT",
+  "keywords": ["freellmapi", "llm", "openai-compatible", "free-tier", "gateway"]
+}
